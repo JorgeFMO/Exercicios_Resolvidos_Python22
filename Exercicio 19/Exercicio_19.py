@@ -1,5 +1,5 @@
 """
-18) Faça um algoritmo com duas variáveis numéricas (tipo int) que realize as 4 operações básicas(soma, subtração, multiplicação e divisão), 
+19) Faça um algoritmo com duas variáveis numéricas (tipo int) que realize as 4 operações básicas(soma, subtração, multiplicação e divisão), 
 mostre os resultados na tela. Os mesmos devem ser solicitados ao usuário, digite os valores via teclado.
 """
 num1 = int(input('Digite um Numero Inteiro: '))
