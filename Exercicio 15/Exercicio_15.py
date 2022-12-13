@@ -2,8 +2,8 @@
 15) Leia a idade de uma pessoa expressa em anos, meses e dias e mostre-a apenas em dias.
 """
 ano = input('Digite a quantidade de Anos: ')
-meses = input('Digite a quantidade de Anos: ')
-dias = input('Digite a quantidade de Anos: ')
+meses = input('Digite a quantidade de Meses: ')
+dias = input('Digite a quantidade de Dias: ')
 
 prodAno = int(ano) * 365
 progMeses = int(meses) * 30
