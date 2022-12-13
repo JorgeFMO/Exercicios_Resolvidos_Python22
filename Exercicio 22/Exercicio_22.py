@@ -1,5 +1,5 @@
 """
-22) Desenvolva um programa em Python que receba via teclado um valor e a partir disso faça:
+22) Desenvolva um programa que receba via teclado um valor e a partir disso faça:
 (1) se o valor for 1, 2 ou 3, mostre o valor elevado ao quadrado;
 (2) se o valor for o número 4 ou 9, mostre a raiz quadrada do número;
 (3) se for os valores 6, 7 e 8, mostre o valor dividido 9.
