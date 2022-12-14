@@ -1,6 +1,5 @@
 """
 32) Elaborar um algoritmo (programa) que leia as notas de 5 alunos e retorne a maior nota da turma.
-Utilize a estrutura de controle while.
 """
 aluno1 = input('Qual o seu Nome: ')
 aluno1Nota = float(input('Qual a sua Nota: '))
