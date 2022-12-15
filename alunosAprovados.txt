@@ -1,0 +1,6 @@
+Os alunos aprovados são: 
+Pedro
+Suzana
+Gisela
+André
+Natalia
