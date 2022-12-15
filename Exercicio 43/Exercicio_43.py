@@ -1,5 +1,5 @@
 """
-43) Desenvolva um programa em Python que
+43) Desenvolva um programa em que:
 a) Armazenar o nome, sexo e idade de 10 pessoas.
 b) Após a digitação, exibir os dados (nome, sexo e idade) classificados por sexo (crescente),
 c) depois classificar por sexo por idade (decrescente) e
